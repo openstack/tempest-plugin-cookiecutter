@@ -17,4 +17,4 @@ To use, `cd` into the project directory then run::
 
     cookiecutter https://git.openstack.org/openstack/tempest-plugin-cookiecutter.git
 
-You will be prompted for the name/class of the tempest plugin to create.
+You will be prompted for the project name/repository name/class of the tempest plugin to create.

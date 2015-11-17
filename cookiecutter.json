@@ -1,4 +1,5 @@
 {
-    "project": "sample",
+    "project": "Sample",
+    "repo_name": "sample",
     "testclass": "SampleTempestPlugin"
 }
