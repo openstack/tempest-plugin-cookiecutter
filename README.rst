@@ -13,7 +13,11 @@ http://docs.openstack.org/developer/tempest/plugin.html
 Usage
 -----
 
-To use, `cd` into the project directory then run::
+To use, install cookiecutter::
+
+    pip install -U cookiecutter
+
+Then `cd` into the project directory then run::
 
     cookiecutter https://git.openstack.org/openstack/tempest-plugin-cookiecutter.git
 
