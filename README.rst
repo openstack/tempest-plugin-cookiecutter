@@ -8,7 +8,7 @@ Cookiecutter template for an OpenStack tempest plugin.
 
 This cookiecutter template will create a tempest plugin directory
 within an existing repo.  For information on tempest plugins, see
-http://docs.openstack.org/developer/tempest/plugin.html
+https://docs.openstack.org/tempest/latest/plugin.html
 
 Usage
 -----
