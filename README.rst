@@ -19,6 +19,6 @@ To use, install cookiecutter::
 
 Then `cd` into the project directory then run::
 
-    cookiecutter https://git.openstack.org/openstack/tempest-plugin-cookiecutter.git
+    cookiecutter https://opendev.org/openstack/tempest-plugin-cookiecutter.git
 
 You will be prompted for the project name/repository name/class of the tempest plugin to create.
